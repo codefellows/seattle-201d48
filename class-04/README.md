@@ -30,25 +30,6 @@ Today we'll take 45 minutes or so to review the core technical challenge of yest
 
 [-top-](#top)
 
-<a id="css"></a>
-## CSS layout
-
-**HTML Chapter 15: "Layout"**
-
-- p.361: Key concepts in positioning (block/inline)
-- p.363-76: Controlling the position of elements (normal, relative, absolute, fixed, floating)
-- pp.377-8: Screen sizes and resolutions
-- p.379: Page sizes
-- p.381-6: Fixed & liquid layouts
-- p.387: Layout grids
-- p.391: CSS frameworks
-
-**[learnlayout.com](http://learnlayout.com) will be our entry point into layout**
-
-**There is a [document in this directory](learn-layout.md) that summarizes the content on that site.**
-
-[-top-](#top)
-
 <a id="js"></a>
 ## JS functions (with code demo)
 
