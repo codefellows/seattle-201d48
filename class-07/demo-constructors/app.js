@@ -1,6 +1,6 @@
 'use strict';
 
-var sara = {
+var saraLiteral = {
   course: '201d48',
   enrolled: true,
   instructors: ['Sam', 'Lena'],
@@ -8,12 +8,13 @@ var sara = {
   lastName: 'Haynes',
   preferredName: 'Sara without an H',
   homeTown: 'Seattle',
+  codeNinja: true,
   introduction: function () {
     return 'Hi, my name is ' + this.firstName + ' ' + this.lastName + ', but you can call me ' + this.preferredName + '. I am from ' + this.homeTown + '.';
   }
 };
 
-// We would need 132 lines of code to model the entire class in object literals like this. There is a better way.
+// We would need 130 lines of code to model the entire class in object literals like this. There is a better way.
 
 // Constructor function syntax
 
@@ -32,14 +33,29 @@ var sara = {
 
 var allStudents = [];
 
-function Student() {}
+function Student(firstName, lastName, preferredName, homeTown) {
+  this.course = '201d48';
+  this.enrolled = true;
+  this.instructors = ['Sam', 'Lena'];
+  this.firstName = firstName;
+  this.lastName = lastName;
+  this.preferredName = preferredName;
+  this.homeTown = homeTown;
+  this.codeNinja = true;
+  this.introduction = function () {
+    return 'Hi, my name is ' + this.firstName + ' ' + this.lastName + ', but you can call me ' + this.preferredName + '. I am from ' + this.homeTown + '.';
+  };
+  allStudents.push(this);
+}
 
-// Constructor = 12
-// Each instance = 1 * 11
+new Student('Sara', 'Haynes', 'Sara without an H', 'Seattle');
+new Student('Lillian', 'Gales', 'Lillian', 'Pawtucket');
+new Student('Paula', 'Cruz', 'Paula', 'Mt. Rainier');
+
+// Constructor = 13
+// Each instance = 1 * 10
 // Total lines to model the entire class: 23
 
 //==========================
 //Student Prototype Property
 //==========================
-
-// new Student instances
