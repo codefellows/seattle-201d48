@@ -23,7 +23,7 @@
 - The goal of the meetings is to provide an opportunity for individual feedback and for students to ask any questions they may have.
 - The meetings will be done in one of the little conference rooms in "The Catacombs"; just head over at your time.
 - Meeting times:
-    - Thursday 2:00: Na-ama
+    - Thursday 2:00: Na'ama
     - Thursday 2:15: Evan
     - Thursday 2:30: Matt
     - Thursday 3:00: Lillian
