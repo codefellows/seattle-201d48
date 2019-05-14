@@ -63,6 +63,16 @@ What is the best way to facilitate learning/review from yesterday's lab?
 - [Look over the ChartJS documentation](http://www.chartjs.org/docs/)
 - Students should get used to reading and deciphering documentation... and those who have outstanding writing skills can consider developing a specialty in technical writing.
 
+### Samples of Prior 201 Projects
 
+- [Safe Camp](http://www.safe-camp.org/)
+- [Dev's Demise](https://michaeljahns.github.io/cardGame/index.html)
+- [Happy Home Task Manager](https://ljjolley.github.io/201-Final-Project/)
+- [Play FETCH](https://deliman206.github.io/fetch/)
+- [Let's Play WAR](https://jesslovell.github.io/card-game-war/)
+- [SANDMAN](https://zahram1087.github.io/Sandman/)
+- [Ocean Commotion](http://www.oceancommotion.fun/index.html)
+- [Cultivate](https://michaelageorge.github.io/Cultivate/)
+- [Packing Planner](https://niesssiobhan.github.io/packing-planner/)
 
 [-top-](#top)
