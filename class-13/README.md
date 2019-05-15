@@ -82,3 +82,13 @@ When you start with your own projects, one of the things you will be fully respo
 Let's learn about local storage!
 
 [-top-](#top)
+
+### Let's look at some prior 201 projects!
+
+  - [Welcome to Seattle](https://peterbreen.github.io/welcome-to-seattle)
+
+  - [Slash Whooo?](http://wohlfea.github.io/cup-game)
+
+  - [Algorithms](https://ztaylor2.github.io/algorithm-teacher)
+  
+  - [BroNacho](http://bronacho.com)
