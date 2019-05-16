@@ -20,5 +20,5 @@ function handleCatSubmit(e){
   catform.reset();
   newCat.render();
   localStorage.cats = JSON.stringify(allCats);
-  console.log(localStorage.cats);
+  console.log('this is what is in local storage', localStorage.cats);
 }
