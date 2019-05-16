@@ -1,0 +1,110 @@
+body {
+  background: gray;
+}
+
+header {
+  border-bottom: 2px double black;
+  padding-bottom: 1em;
+}
+
+nav ul {
+  width: 41%;
+  margin: auto;
+}
+
+nav li {
+  border: 2px solid black;
+  background-color: white;
+  padding: 1em;
+  margin-left: 2em;
+  display: inline-block;
+}
+
+nav li a{
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 1em 2em 0 2em;
+  padding-bottom: 10px;
+  font-size: 3em;
+}
+
+/* buttons */
+button {
+  box-shadow: 2px 2px;
+  display: inline-block;
+  margin: 1em;
+  padding: 1em;
+  width: 12em;
+}
+
+.click-call-to-action{
+  background-color: green;
+  color: white;
+}
+
+.click-call-to-action:hover {
+  background-color: gray;
+}
+
+.no-click-call-to-action:hover{
+  background-color: red;
+  color: white;
+}
+
+/* Card 1 Styles */
+
+.card-1 img {
+  margin: 1em;
+  float: left;
+  margin-top: -2.5em;
+}
+
+.card-1 h2 {
+  margin-left: 533px;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin-top: 1em;
+  padding-bottom: 1em;
+}
+
+/* Card 2 Styles */
+
+.card-2{
+  clear: both;
+  width: 42%;
+  display: inline-block;
+  border: 2px solid black;
+  text-align: center;
+  margin: 1em;
+}
+
+.card-2 h2{
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: bold;
+  padding: 1em;
+}
+
+.card-2 p {
+  text-align: justify;
+  padding: 1em;
+}
+
+/* Deck one colum */
+.deck-col-1 .card-1 {
+  border: 2px solid black;
+  min-height: 340px;
+
+}
+
+/* Deck three columns */
+
+.deck-col-3 {
+  clear: both;
+}
