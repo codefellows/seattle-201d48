@@ -1,4 +1,4 @@
-# Class 14: Advanced JS Topics and CSS Animations
+# Class 14: CSS Layout, CSS Animations, and Reinstantiation
 
 <a id="top"></a>
 ## Today's Plan: Week 3, Thursday Lecture
